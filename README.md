@@ -9,6 +9,6 @@ slide decks: [1] AI4InSync Sessions 1&2 (Intro to ML and Tutorial) ; [2] AI4InSy
 
 code: a tutorial that can be run with Google's Colaboratory [nn_reconstruction.ipynb]
 
-data: data required to run the tutorial [data/RECONSTRUCTIONS_MAPS.nc] and [data/RECONSTRUCTION_MASK.nc] can be found at: https://doi.org/10.5281/zenodo.15478201
+data: data required to run the tutorial [data/RECONSTRUCTIONS_MAPS.nc] and [data/RECONSTRUCTION_MASK.nc] can be found at: https://doi.org/10.5281/zenodo.15597587
 
 Code was written using python 3.8.10 and tensorflow 2.11.0. The examples and data can be run on Google's Colaboratory.
