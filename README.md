@@ -5,7 +5,7 @@
 
 This tutorial includes:
 
-slide decks: [1] Intro to ML and Tutorial ; [2] State-of-the-Art: ML in Earth and Climate Science & Applications & Discussion: ML for Observing System Design
+slide decks: [1] AI4InSync Sessions 1&2 (Intro to ML and Tutorial) ; [2] AI4InSync Sessions 3&4 (State-of-the-Art: ML in Earth and Climate Science & Applications & Discussion: ML for Observing System Design)
 
 code: a tutorial that can be run with Google's Colaboratory [nn_reconstruction.ipynb]
 
